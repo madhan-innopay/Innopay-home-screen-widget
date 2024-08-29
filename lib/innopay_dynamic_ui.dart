@@ -14,6 +14,6 @@ class InnopayDynamicHomeScreen extends StatefulWidget {
 class _InnopayDynamicHomeScreenState extends State<InnopayDynamicHomeScreen> {
   @override
   Widget build(BuildContext context) {
-    return Text("DYNAMIC INNOPAY UI");
+    return Text("DYNAMIC INNOPAY UI UPDATED");
   }
 }
